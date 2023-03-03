@@ -1,0 +1,1 @@
+python ../run_experiment.py --forcegitcheck --seeds 1 --seedaction list --datalocation ../RawData --datasets STAGGERS --fingerprintmethod cachehistogram --fsmethod Cachehistogram_MI --outputlocation testoutput/ --loglocation testlog/  --ifeatures IMF MI --concept_max 3  --single

@@ -1,0 +1,24 @@
+*.cpython
+*.pyc
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+coverage.xml
+.coverage
+/coverage
+/htmlcov
+
+RawData/Real/*/seeds/*
+RawData/Synthetic/*/*
+.vscode
+output/*
+experimentlog/*
+profile.txt
+mprofile*
+memory-profile*
+.vscode
+
+tests/testlog/
+tests/testoutput/

@@ -1,0 +1,1 @@
+python ../run_experiment.py --forcegitcheck --seeds 1 --seedaction list --datalocation ../RawData --datasets STAGGERS --outputlocation testoutput/ --loglocation testlog/ --single --ifeatures IMF MI --isources labels errors error_distances

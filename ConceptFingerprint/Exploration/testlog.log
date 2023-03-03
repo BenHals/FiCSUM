@@ -1,0 +1,1361 @@
+INFO:root:Ranking inactive models on current stream at 3519, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.3674564687328723
+INFO:root:Current performance: Similarity 0.3674564687328723
+INFO:root:Recent performance: Similarity 0.03584794891414948
+INFO:root:standard_deviations_from_normal: 24.22097964293049
+INFO:root:Recent performance: stdev 0.01428055684634646
+INFO:root:Similarity range: -0.006993721624889898 to 0.07868961945318886
+INFO:root:Performace score: similarity: 0.6325435312671277, adjusted by distance: -7.900155648842025
+INFO:root:State 0 filtered
+INFO:root:Ranking inactive models on current stream at 3618, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.8222957943466069
+INFO:root:Current performance: Similarity 0.8222957943466069
+INFO:root:Recent performance: Similarity 0.0025786219351602627
+INFO:root:standard_deviations_from_normal: 58.40092499412327
+INFO:root:Recent performance: stdev 0.01428055684634646
+INFO:root:Similarity range: -0.040263048603879116 to 0.045420292474199646
+INFO:root:Performace score: similarity: 0.17770420565339307, adjusted by distance: -47.022835008619204
+INFO:root:State 0 filtered
+INFO:root:Ranking inactive models on current stream at 7071, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.6722505985365107
+INFO:root:Current performance: Similarity 0.6722505985365107
+INFO:root:Recent performance: Similarity 0.005425147437206129
+INFO:root:standard_deviations_from_normal: 47.69463931092472
+INFO:root:Recent performance: stdev 0.01428055684634646
+INFO:root:Similarity range: -0.03741652310183325 to 0.04826681797624551
+INFO:root:Performace score: similarity: 0.3277494014634893, adjusted by distance: -31.062749823752135
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.03637606542994831
+INFO:root:Current performance: Similarity 0.03637606542994831
+INFO:root:Recent performance: Similarity 5.1918339178286064e-05
+INFO:root:standard_deviations_from_normal: 8.264829418154005
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014948081660821714 to 0.015051918339178285
+INFO:root:Performace score: similarity: 0.9636239345700517, adjusted by distance: 0.6993580243178683
+INFO:root:State 1 filtered
+INFO:root:Ranking inactive models on current stream at 7170, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.681481543477924
+INFO:root:Current performance: Similarity 0.681481543477924
+INFO:root:Recent performance: Similarity 0.004498504948881888
+INFO:root:standard_deviations_from_normal: 48.40592722070509
+INFO:root:Recent performance: stdev 0.01428055684634646
+INFO:root:Similarity range: -0.03834316559015749 to 0.04734017548792127
+INFO:root:Performace score: similarity: 0.318518456522076, adjusted by distance: -31.98774599584616
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.04060916474345244
+INFO:root:Current performance: Similarity 0.04060916474345244
+INFO:root:Recent performance: Similarity 5.278369822790985e-05
+INFO:root:standard_deviations_from_normal: 9.111276209044906
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01494721630177209 to 0.01505278369822791
+INFO:root:Performace score: similarity: 0.9593908352565476, adjusted by distance: 0.6299986834037966
+INFO:root:State 1 filtered
+INFO:root:Ranking inactive models on current stream at 10591, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7051523651525617
+INFO:root:Current performance: Similarity 0.7051523651525617
+INFO:root:Recent performance: Similarity 0.003043923173015499
+INFO:root:standard_deviations_from_normal: 50.165340647005216
+INFO:root:Recent performance: stdev 0.01428055684634646
+INFO:root:Similarity range: -0.03979774736602388 to 0.04588559371205488
+INFO:root:Performace score: similarity: 0.29484763484743826, adjusted by distance: -34.37420860591967
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.10721214178815985
+INFO:root:Current performance: Similarity 0.10721214178815985
+INFO:root:Recent performance: Similarity 4.951511293570849e-05
+INFO:root:standard_deviations_from_normal: 22.43252533504483
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014950484887064292 to 0.015049515112935707
+INFO:root:Performace score: similarity: 0.8927878582118401, adjusted by distance: -1.4050390868873142
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.020373391375306582
+INFO:root:Current performance: Similarity 0.020373391375306582
+INFO:root:Recent performance: Similarity 2.3309966340752297e-05
+INFO:root:standard_deviations_from_normal: 5.0700162817931655
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014976690033659246 to 0.015023309966340753
+INFO:root:Performace score: similarity: 0.9796266086246934, adjusted by distance: 0.8967065740118512
+INFO:root:State 2 filtered
+INFO:root:Ranking inactive models on current stream at 10690, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7179176594083159
+INFO:root:Current performance: Similarity 0.7179176594083159
+INFO:root:Recent performance: Similarity 0.002752716167777514
+INFO:root:standard_deviations_from_normal: 51.07962581119561
+INFO:root:Recent performance: stdev 0.01428055684634646
+INFO:root:Similarity range: -0.040088954371261865 to 0.0455943867068169
+INFO:root:Performace score: similarity: 0.28208234059168413, adjusted by distance: -35.67096540582615
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.10724234070804695
+INFO:root:Current performance: Similarity 0.10724234070804695
+INFO:root:Recent performance: Similarity 5.024390174294334e-05
+INFO:root:standard_deviations_from_normal: 22.4384193612608
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014949756098257057 to 0.015050243901742942
+INFO:root:Performace score: similarity: 0.892757659291953, adjusted by distance: -1.4063486140903678
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.02024243333582132
+INFO:root:Current performance: Similarity 0.02024243333582132
+INFO:root:Recent performance: Similarity 2.3460572079536052e-05
+INFO:root:standard_deviations_from_normal: 5.0437945527483565
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014976539427920463 to 0.015023460572079535
+INFO:root:Performace score: similarity: 0.9797575666641787, adjusted by distance: 0.8979013250064127
+INFO:root:State 2 filtered
+INFO:root:Ranking inactive models on current stream at 14111, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7572724495193799
+INFO:root:Current performance: Similarity 0.7572724495193799
+INFO:root:Recent performance: Similarity 0.0023221234720969
+INFO:root:standard_deviations_from_normal: 53.86560840520932
+INFO:root:Recent performance: stdev 0.01428055684634646
+INFO:root:Similarity range: -0.04051954706694248 to 0.04516379401113628
+INFO:root:Performace score: similarity: 0.2427275504806201, adjusted by distance: -39.790941221864564
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.16610192920352296
+INFO:root:Current performance: Similarity 0.16610192920352296
+INFO:root:Recent performance: Similarity 4.5786835756833516e-05
+INFO:root:standard_deviations_from_normal: 34.21122847355322
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014954213164243165 to 0.015045786835756834
+INFO:root:Performace score: similarity: 0.833898070796477, adjusted by distance: -4.682551049879685
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.05445790514823623
+INFO:root:Current performance: Similarity 0.05445790514823623
+INFO:root:Recent performance: Similarity 2.2069464811915338e-05
+INFO:root:standard_deviations_from_normal: 11.887167136684862
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014977930535188083 to 0.015022069464811915
+INFO:root:Performace score: similarity: 0.9455420948517638, adjusted by distance: 0.35264977958918486
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.010445475164433948
+INFO:root:Current performance: Similarity 0.010445475164433948
+INFO:root:Recent performance: Similarity 1.5046318096637917e-05
+INFO:root:standard_deviations_from_normal: 3.086085769267462
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01498495368190336 to 0.015015046318096638
+INFO:root:Performace score: similarity: 0.989554524835566, adjusted by distance: 0.9677643677418037
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14143, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7627434164487774
+INFO:root:Current performance: Similarity 0.7627434164487774
+INFO:root:Recent performance: Similarity 0.002311070397115753
+INFO:root:standard_deviations_from_normal: 54.24948839415956
+INFO:root:Recent performance: stdev 0.01428055684634646
+INFO:root:Similarity range: -0.040530600141923626 to 0.045152740936155136
+INFO:root:Performace score: similarity: 0.2372565835512226, adjusted by distance: -40.37844011835956
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.16634469333318558
+INFO:root:Current performance: Similarity 0.16634469333318558
+INFO:root:Recent performance: Similarity 4.5708616763319145e-05
+INFO:root:standard_deviations_from_normal: 34.25979694328445
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01495429138323668 to 0.015045708616763319
+INFO:root:Performace score: similarity: 0.8336553066668144, adjusted by distance: -4.698935416187861
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.05473444075842615
+INFO:root:Current performance: Similarity 0.05473444075842615
+INFO:root:Recent performance: Similarity 2.2044572819473015e-05
+INFO:root:standard_deviations_from_normal: 11.942479237121336
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014977955427180526 to 0.015022044572819472
+INFO:root:Performace score: similarity: 0.9452655592415738, adjusted by distance: 0.34633507768704785
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.01056180227312642
+INFO:root:Current performance: Similarity 0.01056180227312642
+INFO:root:Recent performance: Similarity 1.8164399771762996e-05
+INFO:root:standard_deviations_from_normal: 3.1087275746709313
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014981835600228236 to 0.015018164399771763
+INFO:root:Performace score: similarity: 0.9894381977268736, adjusted by distance: 0.9671662340353098
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14175, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.758661555734512
+INFO:root:Current performance: Similarity 0.758661555734512
+INFO:root:Recent performance: Similarity 0.002262700016973527
+INFO:root:standard_deviations_from_normal: 53.96704210179701
+INFO:root:Recent performance: stdev 0.01428055684634646
+INFO:root:Similarity range: -0.040578970522065855 to 0.04510437055601291
+INFO:root:Performace score: similarity: 0.241338444265488, adjusted by distance: -39.94272011933923
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.16675704430663407
+INFO:root:Current performance: Similarity 0.16675704430663407
+INFO:root:Recent performance: Similarity 4.584378729845058e-05
+INFO:root:standard_deviations_from_normal: 34.34224010386713
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014954156212701549 to 0.01504584378729845
+INFO:root:Performace score: similarity: 0.8332429556933659, adjusted by distance: -4.726810454589636
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.05473153882728654
+INFO:root:Current performance: Similarity 0.05473153882728654
+INFO:root:Recent performance: Similarity 2.207687988789147e-05
+INFO:root:standard_deviations_from_normal: 11.94189238947973
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014977923120112108 to 0.01502207687988789
+INFO:root:Performace score: similarity: 0.9452684611727135, adjusted by distance: 0.3464018530139126
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.010450877537915182
+INFO:root:Current performance: Similarity 0.010450877537915182
+INFO:root:Recent performance: Similarity 2.1472128183323097e-05
+INFO:root:standard_deviations_from_normal: 3.0858810819463716
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014978527871816676 to 0.015021472128183323
+INFO:root:Performace score: similarity: 0.9895491224620848, adjusted by distance: 0.9677498347160093
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14207, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.751039964351983
+INFO:root:Current performance: Similarity 0.751039964351983
+INFO:root:Recent performance: Similarity 0.0023634207447660554
+INFO:root:standard_deviations_from_normal: 53.4262850295476
+INFO:root:Recent performance: stdev 0.01428055684634646
+INFO:root:Similarity range: -0.04047824979427333 to 0.04520509128380543
+INFO:root:Performace score: similarity: 0.24896003564801705, adjusted by distance: -39.12527520405031
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.16724884202400592
+INFO:root:Current performance: Similarity 0.16724884202400592
+INFO:root:Recent performance: Similarity 4.561739750919364e-05
+INFO:root:standard_deviations_from_normal: 34.440644925299345
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014954382602490806 to 0.015045617397509193
+INFO:root:Performace score: similarity: 0.8327511579759941, adjusted by distance: -4.760157982316271
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.05484111078488785
+INFO:root:Current performance: Similarity 0.05484111078488785
+INFO:root:Recent performance: Similarity 2.1983064107341962e-05
+INFO:root:standard_deviations_from_normal: 11.963825544156101
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014978016935892657 to 0.015021983064107342
+INFO:root:Performace score: similarity: 0.9451588892151122, adjusted by distance: 0.3438905179218641
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.01049478017921135
+INFO:root:Current performance: Similarity 0.01049478017921135
+INFO:root:Recent performance: Similarity 2.3012508361917472e-05
+INFO:root:standard_deviations_from_normal: 3.0943535341698865
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014976987491638082 to 0.015023012508361917
+INFO:root:Performace score: similarity: 0.9895052198207887, adjusted by distance: 0.9675254398621213
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14239, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7550541887538906
+INFO:root:Current performance: Similarity 0.7550541887538906
+INFO:root:Recent performance: Similarity 0.0022961807330944732
+INFO:root:standard_deviations_from_normal: 53.712090720284614
+INFO:root:Recent performance: stdev 0.01428055684634646
+INFO:root:Similarity range: -0.040545489805944905 to 0.04513785127213386
+INFO:root:Performace score: similarity: 0.24494581124610937, adjusted by distance: -39.55553908507988
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.16652137793668254
+INFO:root:Current performance: Similarity 0.16652137793668254
+INFO:root:Recent performance: Similarity 4.579185052536651e-05
+INFO:root:standard_deviations_from_normal: 34.295117217231436
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014954208149474632 to 0.015045791850525366
+INFO:root:Performace score: similarity: 0.8334786220633175, adjusted by distance: -4.710870175513424
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.05472612083069617
+INFO:root:Current performance: Similarity 0.05472612083069617
+INFO:root:Recent performance: Similarity 2.2032286534408564e-05
+INFO:root:standard_deviations_from_normal: 11.940817708832352
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01497796771346559 to 0.015022032286534408
+INFO:root:Performace score: similarity: 0.9452738791693038, adjusted by distance: 0.3465253672491241
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.010133307208515574
+INFO:root:Current performance: Similarity 0.010133307208515574
+INFO:root:Recent performance: Similarity 2.302482943856395e-05
+INFO:root:standard_deviations_from_normal: 3.022056475815402
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014976975170561435 to 0.015023024829438564
+INFO:root:Performace score: similarity: 0.9898666927914844, adjusted by distance: 0.9693765733290787
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14340, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7610228000043983
+INFO:root:Current performance: Similarity 0.7610228000043983
+INFO:root:Recent performance: Similarity 0.0020814865699927605
+INFO:root:standard_deviations_from_normal: 54.14507841678269
+INFO:root:Recent performance: stdev 0.01428055684634646
+INFO:root:Similarity range: -0.04076018396904662 to 0.04492315710903214
+INFO:root:Performace score: similarity: 0.23897719999560174, adjusted by distance: -40.205639183197675
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.16741463724482497
+INFO:root:Current performance: Similarity 0.16741463724482497
+INFO:root:Recent performance: Similarity 4.607391803777438e-05
+INFO:root:standard_deviations_from_normal: 34.47371266535744
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014953926081962225 to 0.015046073918037774
+INFO:root:Performace score: similarity: 0.832585362755175, adjusted by distance: -4.771404100353144
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.05712641075457314
+INFO:root:Current performance: Similarity 0.05712641075457314
+INFO:root:Recent performance: Similarity 2.2074409620472262e-05
+INFO:root:standard_deviations_from_normal: 12.420867268990534
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014977925590379528 to 0.015022074409620471
+INFO:root:Performace score: similarity: 0.9428735892454269, adjusted by distance: 0.29044043446361356
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.011098731234929993
+INFO:root:Current performance: Similarity 0.011098731234929993
+INFO:root:Recent performance: Similarity 2.0509452316667895e-05
+INFO:root:standard_deviations_from_normal: 3.215644356522665
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01497949054768333 to 0.015020509452316668
+INFO:root:Performace score: similarity: 0.98890126876507, adjusted by distance: 0.9643104275398355
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 543, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.0845296599402704
+INFO:root:Current performance: Similarity 0.0845296599402704
+INFO:root:Recent performance: Similarity 0.06287801337908139
+INFO:root:standard_deviations_from_normal: 1.994665733211943
+INFO:root:Recent performance: stdev 0.021767761608990185
+INFO:root:Similarity range: -0.002425271447889163 to 0.12818129820605195
+INFO:root:Performace score: similarity: 0.9154703400597296, adjusted by distance: 0.8313915838770843
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 644, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.11014030099605121
+INFO:root:Current performance: Similarity 0.11014030099605121
+INFO:root:Recent performance: Similarity 0.06117990691574056
+INFO:root:standard_deviations_from_normal: 3.440984501694218
+INFO:root:Recent performance: stdev 0.02005764233502041
+INFO:root:Similarity range: 0.0010069799106793287 to 0.12135283392080179
+INFO:root:Performace score: similarity: 0.8898596990039488, adjusted by distance: 0.6210089312606515
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 3551, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7984608141032903
+INFO:root:Current performance: Similarity 0.7984608141032903
+INFO:root:Recent performance: Similarity 0.004317994471783488
+INFO:root:standard_deviations_from_normal: 81.22670800342827
+INFO:root:Recent performance: stdev 0.009898733718421692
+INFO:root:Similarity range: -0.02537820668348159 to 0.03401419562704856
+INFO:root:Performace score: similarity: 0.20153918589670972, adjusted by distance: -63.85634339934758
+INFO:root:State 0 filtered
+INFO:root:Ranking inactive models on current stream at 3650, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.9509209694292144
+INFO:root:Current performance: Similarity 0.9509209694292144
+INFO:root:Recent performance: Similarity 0.0002704743262778431
+INFO:root:standard_deviations_from_normal: 97.03758643731994
+INFO:root:Recent performance: stdev 0.009898733718421692
+INFO:root:Similarity range: -0.029425726828987232 to 0.029966675481542922
+INFO:root:Performace score: similarity: 0.04907903057078555, adjusted by distance: -91.27507576604748
+INFO:root:State 0 filtered
+INFO:root:Ranking inactive models on current stream at 7071, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7936176969675744
+INFO:root:Current performance: Similarity 0.7936176969675744
+INFO:root:Recent performance: Similarity 0.0010815262529985034
+INFO:root:standard_deviations_from_normal: 81.06439947360684
+INFO:root:Recent performance: stdev 0.009898733718421692
+INFO:root:Similarity range: -0.028614674902266574 to 0.03077772740826358
+INFO:root:Performace score: similarity: 0.20638230303242555, adjusted by distance: -63.33414201630332
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.043901688557628216
+INFO:root:Current performance: Similarity 0.043901688557628216
+INFO:root:Recent performance: Similarity 3.790476417507488e-05
+INFO:root:standard_deviations_from_normal: 9.772756758690628
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014962095235824924 to 0.015037904764175075
+INFO:root:Performace score: similarity: 0.9560983114423718, adjusted by distance: 0.5709594764305079
+INFO:root:State 1 filtered
+INFO:root:Ranking inactive models on current stream at 7170, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7947662601666351
+INFO:root:Current performance: Similarity 0.7947662601666351
+INFO:root:Recent performance: Similarity 0.0006879373052750969
+INFO:root:standard_deviations_from_normal: 81.22019234476106
+INFO:root:Recent performance: stdev 0.009898733718421692
+INFO:root:Similarity range: -0.02900826384998998 to 0.030384138460540173
+INFO:root:Performace score: similarity: 0.2052337398333649, adjusted by distance: -63.55106851986051
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.04893889138794294
+INFO:root:Current performance: Similarity 0.04893889138794294
+INFO:root:Recent performance: Similarity 3.845434379888448e-05
+INFO:root:standard_deviations_from_normal: 10.78008740882881
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014961545656201116 to 0.015038454343798883
+INFO:root:Performace score: similarity: 0.9510611086120571, adjusted by distance: 0.47243447314679554
+INFO:root:State 1 filtered
+INFO:root:Ranking inactive models on current stream at 10591, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7935027302508535
+INFO:root:Current performance: Similarity 0.7935027302508535
+INFO:root:Recent performance: Similarity 0.0007642928625560518
+INFO:root:standard_deviations_from_normal: 81.08483306435441
+INFO:root:Recent performance: stdev 0.009898733718421692
+INFO:root:Similarity range: -0.028931908292709026 to 0.030460494017821128
+INFO:root:Performace score: similarity: 0.2064972697491465, adjusted by distance: -63.34103641849991
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.11419402849640481
+INFO:root:Current performance: Similarity 0.11419402849640481
+INFO:root:Recent performance: Similarity 3.565132075681947e-05
+INFO:root:standard_deviations_from_normal: 23.831675435129597
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01496434867924318 to 0.01503565132075682
+INFO:root:Performace score: similarity: 0.8858059715035952, adjusted by distance: -1.7214350237562597
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.022267347450089292
+INFO:root:Current performance: Similarity 0.022267347450089292
+INFO:root:Recent performance: Similarity 4.003889959038938e-05
+INFO:root:standard_deviations_from_normal: 5.44546171009978
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01495996110040961 to 0.015040038899590389
+INFO:root:Performace score: similarity: 0.9777326525499107, adjusted by distance: 0.8787440120750508
+INFO:root:State 2 filtered
+INFO:root:Ranking inactive models on current stream at 10690, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.796419265344705
+INFO:root:Current performance: Similarity 0.796419265344705
+INFO:root:Recent performance: Similarity 0.0006836384604239509
+INFO:root:standard_deviations_from_normal: 81.38761820649898
+INFO:root:Recent performance: stdev 0.009898733718421692
+INFO:root:Similarity range: -0.029012562694841128 to 0.030379839615689026
+INFO:root:Performace score: similarity: 0.20358073465529503, adjusted by distance: -63.81866710017526
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.1144381099593813
+INFO:root:Current performance: Similarity 0.1144381099593813
+INFO:root:Recent performance: Similarity 3.576705185670685e-05
+INFO:root:standard_deviations_from_normal: 23.88046858150492
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014964232948143292 to 0.015035767051856707
+INFO:root:Performace score: similarity: 0.8855618900406187, adjusted by distance: -1.7328356894118109
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.023180304402380725
+INFO:root:Current performance: Similarity 0.023180304402380725
+INFO:root:Recent performance: Similarity 4.003889959038938e-05
+INFO:root:standard_deviations_from_normal: 5.628053100558066
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01495996110040961 to 0.015040038899590389
+INFO:root:Performace score: similarity: 0.9768196955976193, adjusted by distance: 0.8695400159363014
+INFO:root:State 2 filtered
+INFO:root:Ranking inactive models on current stream at 14111, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.8348576054242645
+INFO:root:Current performance: Similarity 0.8348576054242645
+INFO:root:Recent performance: Similarity 0.0008374910081088337
+INFO:root:standard_deviations_from_normal: 85.25523285509051
+INFO:root:Recent performance: stdev 0.009898733718421692
+INFO:root:Similarity range: -0.028858710147156245 to 0.03053369216337391
+INFO:root:Performace score: similarity: 0.16514239457573554, adjusted by distance: -70.17597955128895
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.173019993387175
+INFO:root:Current performance: Similarity 0.173019993387175
+INFO:root:Recent performance: Similarity 3.165542350776982e-05
+INFO:root:standard_deviations_from_normal: 35.597667592733444
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01496834457649223 to 0.015031655423507768
+INFO:root:Performace score: similarity: 0.826980006612825, adjusted by distance: -5.159108211493594
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.058168399990697894
+INFO:root:Current performance: Similarity 0.058168399990697894
+INFO:root:Recent performance: Similarity 3.9910027191970086e-05
+INFO:root:standard_deviations_from_normal: 12.625697992701186
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01496008997280803 to 0.01503991002719197
+INFO:root:Performace score: similarity: 0.9418316000093021, adjusted by distance: 0.26558334899880587
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.013128951324178462
+INFO:root:Current performance: Similarity 0.013128951324178462
+INFO:root:Recent performance: Similarity 2.3133184314954934e-05
+INFO:root:standard_deviations_from_normal: 3.621163627972701
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014976866815685044 to 0.015023133184314955
+INFO:root:Performace score: similarity: 0.9868710486758215, adjusted by distance: 0.9524579189914609
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14175, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.8331573975631937
+INFO:root:Current performance: Similarity 0.8331573975631937
+INFO:root:Recent performance: Similarity 0.0009349276581727107
+INFO:root:standard_deviations_from_normal: 85.07362937304218
+INFO:root:Recent performance: stdev 0.009898733718421692
+INFO:root:Similarity range: -0.028761273497092368 to 0.030631128813437786
+INFO:root:Performace score: similarity: 0.16684260243680626, adjusted by distance: -69.8797236496995
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.17257952226426054
+INFO:root:Current performance: Similarity 0.17257952226426054
+INFO:root:Recent performance: Similarity 3.150949227728388e-05
+INFO:root:standard_deviations_from_normal: 35.50960255439665
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014968490507722716 to 0.015031509492277283
+INFO:root:Performace score: similarity: 0.8274204777357395, adjusted by distance: -5.12823024463154
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.05742176396651921
+INFO:root:Current performance: Similarity 0.05742176396651921
+INFO:root:Recent performance: Similarity 3.894761833280843e-05
+INFO:root:standard_deviations_from_normal: 12.476563269637282
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014961052381667192 to 0.015038947618332807
+INFO:root:Performace score: similarity: 0.9425782360334808, adjusted by distance: 0.28357372881754483
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.012938675046036408
+INFO:root:Current performance: Similarity 0.012938675046036408
+INFO:root:Recent performance: Similarity 3.2483149836449665e-05
+INFO:root:standard_deviations_from_normal: 3.5812383792399913
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014967516850163549 to 0.01503248314983645
+INFO:root:Performace score: similarity: 0.9870613249539636, adjusted by distance: 0.9536635203486197
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14207, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.8338469732752354
+INFO:root:Current performance: Similarity 0.8338469732752354
+INFO:root:Recent performance: Similarity 0.0010210807700746886
+INFO:root:standard_deviations_from_normal: 85.13458894800445
+INFO:root:Recent performance: stdev 0.009898733718421692
+INFO:root:Similarity range: -0.02867512038519039 to 0.030717281925339766
+INFO:root:Performace score: similarity: 0.16615302672476462, adjusted by distance: -69.98921931532482
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.17167735239696802
+INFO:root:Current performance: Similarity 0.17167735239696802
+INFO:root:Recent performance: Similarity 3.136858817885115e-05
+INFO:root:standard_deviations_from_normal: 35.329196761757835
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014968631411821148 to 0.015031368588178851
+INFO:root:Performace score: similarity: 0.828322647603032, adjusted by distance: -5.065222962370121
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.05742259874595024
+INFO:root:Current performance: Similarity 0.05742259874595024
+INFO:root:Recent performance: Similarity 3.8238532944523855e-05
+INFO:root:standard_deviations_from_normal: 12.476872042601142
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014961761467055476 to 0.015038238532944522
+INFO:root:Performace score: similarity: 0.9425774012540498, adjusted by distance: 0.28354558309315003
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.013763632477160281
+INFO:root:Current performance: Similarity 0.013763632477160281
+INFO:root:Recent performance: Similarity 3.172375603183733e-05
+INFO:root:standard_deviations_from_normal: 3.746381744225689
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014968276243968162 to 0.015031723756031836
+INFO:root:Performace score: similarity: 0.9862363675228397, adjusted by distance: 0.948436178553335
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14239, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.8261021333680513
+INFO:root:Current performance: Similarity 0.8261021333680513
+INFO:root:Recent performance: Similarity 0.001209804011916226
+INFO:root:standard_deviations_from_normal: 84.33311641882013
+INFO:root:Recent performance: stdev 0.009898733718421692
+INFO:root:Similarity range: -0.02848639714334885 to 0.030906005167181304
+INFO:root:Performace score: similarity: 0.17389786663194873, adjusted by distance: -68.66776738716354
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.1700448025358119
+INFO:root:Current performance: Similarity 0.1700448025358119
+INFO:root:Recent performance: Similarity 3.113676066561765e-05
+INFO:root:standard_deviations_from_normal: 35.002733155029254
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014968863239334381 to 0.015031136760665618
+INFO:root:Performace score: similarity: 0.8299551974641881, adjusted by distance: -4.952032847560665
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.05721941268740893
+INFO:root:Current performance: Similarity 0.05721941268740893
+INFO:root:Recent performance: Similarity 3.698747477726377e-05
+INFO:root:standard_deviations_from_normal: 12.436485042526334
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014963012525222736 to 0.015036987474777263
+INFO:root:Performace score: similarity: 0.9427805873125911, adjusted by distance: 0.2883916299708973
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.01220087561268568
+INFO:root:Current performance: Similarity 0.01220087561268568
+INFO:root:Recent performance: Similarity 3.33296198581605e-05
+INFO:root:standard_deviations_from_normal: 3.433509198565504
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01496667038014184 to 0.01503332961985816
+INFO:root:Performace score: similarity: 0.9877991243873143, adjusted by distance: 0.9581081813532902
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14340, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.8304700490290505
+INFO:root:Current performance: Similarity 0.8304700490290505
+INFO:root:Recent performance: Similarity 0.0012739444876314805
+INFO:root:standard_deviations_from_normal: 84.76789679656426
+INFO:root:Recent performance: stdev 0.009898733718421692
+INFO:root:Similarity range: -0.028422256667633598 to 0.030970145642896556
+INFO:root:Performace score: similarity: 0.16952995097094947, adjusted by distance: -69.39719940873222
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.16638692299538782
+INFO:root:Current performance: Similarity 0.16638692299538782
+INFO:root:Recent performance: Similarity 3.107648326510552e-05
+INFO:root:standard_deviations_from_normal: 34.27116930242454
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014968923516734895 to 0.015031076483265104
+INFO:root:Performace score: similarity: 0.8336130770046122, adjusted by distance: -4.702274407684411
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.05545441505144233
+INFO:root:Current performance: Similarity 0.05545441505144233
+INFO:root:Recent performance: Similarity 3.66274248225412e-05
+INFO:root:standard_deviations_from_normal: 12.083557525323958
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014963372575177459 to 0.01503662742482254
+INFO:root:Performace score: similarity: 0.9445455849485577, adjusted by distance: 0.3299133856927059
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.012401011834861198
+INFO:root:Current performance: Similarity 0.012401011834861198
+INFO:root:Recent performance: Similarity 3.081166586100932e-05
+INFO:root:standard_deviations_from_normal: 3.4740400338000375
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01496918833413899 to 0.015030811665861009
+INFO:root:Performace score: similarity: 0.9875989881651388, adjusted by distance: 0.9569183884260641
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14495, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.8757892475020153
+INFO:root:Current performance: Similarity 0.8757892475020153
+INFO:root:Recent performance: Similarity 0.0005254375304198121
+INFO:root:standard_deviations_from_normal: 89.42179564268068
+INFO:root:Recent performance: stdev 0.009898733718421692
+INFO:root:Similarity range: -0.029170763624845265 to 0.03022163868568489
+INFO:root:Performace score: similarity: 0.12421075249798474, adjusted by distance: -77.3146471161823
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.1712545178618885
+INFO:root:Current performance: Similarity 0.1712545178618885
+INFO:root:Recent performance: Similarity 3.242022858564917e-05
+INFO:root:standard_deviations_from_normal: 35.244419526660565
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01496757977141435 to 0.015032420228585648
+INFO:root:Performace score: similarity: 0.8287454821381115, adjusted by distance: -5.035766073360383
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.058322656331247114
+INFO:root:Current performance: Similarity 0.058322656331247114
+INFO:root:Recent performance: Similarity 4.003889959038938e-05
+INFO:root:standard_deviations_from_normal: 12.656523486331345
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01495996110040961 to 0.015040038899590389
+INFO:root:Performace score: similarity: 0.9416773436687529, adjusted by distance: 0.26183793035833935
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.015715269122656195
+INFO:root:Current performance: Similarity 0.015715269122656195
+INFO:root:Recent performance: Similarity 2.975500186566608e-05
+INFO:root:standard_deviations_from_normal: 4.137102824158106
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014970244998134333 to 0.015029755001865666
+INFO:root:Performace score: similarity: 0.9842847308773438, adjusted by distance: 0.9349843157302544
+INFO:root:State 3 filtered
+INFO:root:Ranking inactive models on current stream at 14594, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.872393427002542
+INFO:root:Current performance: Similarity 0.872393427002542
+INFO:root:Recent performance: Similarity 0.00047824818739851366
+INFO:root:standard_deviations_from_normal: 89.08350680173326
+INFO:root:Recent performance: stdev 0.009898733718421692
+INFO:root:Similarity range: -0.029217952967866563 to 0.03017444934266359
+INFO:root:Performace score: similarity: 0.12760657299745803, adjusted by distance: -76.71586578816834
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.1736151240286533
+INFO:root:Current performance: Similarity 0.1736151240286533
+INFO:root:Recent performance: Similarity 3.2699799219330846e-05
+INFO:root:standard_deviations_from_normal: 35.7164848458868
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01496730020078067 to 0.01503269979921933
+INFO:root:Performace score: similarity: 0.8263848759713467, adjusted by distance: -5.200921946386153
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.05660303118059373
+INFO:root:Current performance: Similarity 0.05660303118059373
+INFO:root:Recent performance: Similarity 4.003889959038938e-05
+INFO:root:standard_deviations_from_normal: 12.31259845620067
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01495996110040961 to 0.015040038899590389
+INFO:root:Performace score: similarity: 0.9433969688194063, adjusted by distance: 0.3030696056695432
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.01713110821213326
+INFO:root:Current performance: Similarity 0.01713110821213326
+INFO:root:Recent performance: Similarity 2.975500186566608e-05
+INFO:root:standard_deviations_from_normal: 4.420270642053518
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014970244998134333 to 0.015029755001865666
+INFO:root:Performace score: similarity: 0.9828688917878667, adjusted by distance: 0.9242758653040655
+INFO:root:State 3 filtered
+INFO:root:Ranking inactive models on current stream at 3519, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.34615105279197456
+INFO:root:Current performance: Similarity 0.34615105279197456
+INFO:root:Recent performance: Similarity 0.03663639631962613
+INFO:root:standard_deviations_from_normal: 22.644328962452335
+INFO:root:Recent performance: stdev 0.014300034757801054
+INFO:root:Similarity range: -0.00626370795377703 to 0.0795365005930293
+INFO:root:Performace score: similarity: 0.6538489472080254, adjusted by distance: -6.838358310120676
+INFO:root:State 0 filtered
+INFO:root:Ranking inactive models on current stream at 3618, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.8869162535879986
+INFO:root:Current performance: Similarity 0.8869162535879986
+INFO:root:Recent performance: Similarity 0.0012856447909182743
+INFO:root:standard_deviations_from_normal: 62.93205987236814
+INFO:root:Recent performance: stdev 0.014300034757801054
+INFO:root:Similarity range: -0.04161445948248489 to 0.04418574906432143
+INFO:root:Performace score: similarity: 0.11308374641200136, adjusted by distance: -54.81546677257638
+INFO:root:State 0 filtered
+INFO:root:Ranking inactive models on current stream at 7071, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7251156612652854
+INFO:root:Current performance: Similarity 0.7251156612652854
+INFO:root:Recent performance: Similarity 0.004567514247547133
+INFO:root:standard_deviations_from_normal: 51.38785983542172
+INFO:root:Recent performance: stdev 0.014300034757801054
+INFO:root:Similarity range: -0.03833259002585603 to 0.04746761852095029
+INFO:root:Performace score: similarity: 0.27488433873471463, adjusted by distance: -36.26214196556962
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.019831535437833003
+INFO:root:Current performance: Similarity 0.019831535437833003
+INFO:root:Recent performance: Similarity 2.7833216867351438e-05
+INFO:root:standard_deviations_from_normal: 4.96074044419313
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014972166783132648 to 0.015027833216867351
+INFO:root:Performace score: similarity: 0.980168464562167, adjusted by distance: 0.9016209000830925
+INFO:root:State 1 filtered
+INFO:root:Ranking inactive models on current stream at 7170, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7310212938838195
+INFO:root:Current performance: Similarity 0.7310212938838195
+INFO:root:Recent performance: Similarity 0.003766216960053322
+INFO:root:standard_deviations_from_normal: 51.85687477277137
+INFO:root:Recent performance: stdev 0.014300034757801054
+INFO:root:Similarity range: -0.03913388731334984 to 0.04666632123345649
+INFO:root:Performace score: similarity: 0.26897870611618047, adjusted by distance: -36.908479693162526
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.022054223448843446
+INFO:root:Current performance: Similarity 0.022054223448843446
+INFO:root:Recent performance: Similarity 2.851374414974309e-05
+INFO:root:standard_deviations_from_normal: 5.405141940938741
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014971486255850257 to 0.015028513744149742
+INFO:root:Performace score: similarity: 0.9779457765511566, adjusted by distance: 0.8807937918618216
+INFO:root:State 1 filtered
+INFO:root:Ranking inactive models on current stream at 10591, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7431606061784721
+INFO:root:Current performance: Similarity 0.7431606061784721
+INFO:root:Recent performance: Similarity 0.0025856344451571627
+INFO:root:standard_deviations_from_normal: 52.78833368424586
+INFO:root:Recent performance: stdev 0.014300034757801054
+INFO:root:Similarity range: -0.040314469828246 to 0.04548573871856033
+INFO:root:Performace score: similarity: 0.2568393938215279, adjusted by distance: -38.230210059935615
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.06450968706098359
+INFO:root:Current performance: Similarity 0.06450968706098359
+INFO:root:Recent performance: Similarity 2.7983604806468846e-05
+INFO:root:standard_deviations_from_normal: 13.896340691235425
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01497201639519353 to 0.015027983604806469
+INFO:root:Performace score: similarity: 0.9354903129390164, adjusted by distance: 0.10355141071559038
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.014312983750397912
+INFO:root:Current performance: Similarity 0.014312983750397912
+INFO:root:Recent performance: Similarity 1.7802480249064105e-05
+INFO:root:standard_deviations_from_normal: 3.85903625402977
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014982197519750936 to 0.015017802480249063
+INFO:root:Performace score: similarity: 0.9856870162496021, adjusted by distance: 0.9447656768038755
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 10623, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7332409364724385
+INFO:root:Current performance: Similarity 0.7332409364724385
+INFO:root:Recent performance: Similarity 0.0025599561536043163
+INFO:root:standard_deviations_from_normal: 52.09644785445211
+INFO:root:Recent performance: stdev 0.014300034757801054
+INFO:root:Similarity range: -0.040340148119798844 to 0.04546006042700748
+INFO:root:Performace score: similarity: 0.2667590635275615, adjusted by distance: -37.199248211686026
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.06563099387838023
+INFO:root:Current performance: Similarity 0.06563099387838023
+INFO:root:Recent performance: Similarity 2.7887664373651416e-05
+INFO:root:standard_deviations_from_normal: 14.120621242801313
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014972112335626349 to 0.01502788766437365
+INFO:root:Performace score: similarity: 0.9343690061216198, adjusted by distance: 0.07324959365478123
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.014989307636219973
+INFO:root:Current performance: Similarity 0.014989307636219973
+INFO:root:Recent performance: Similarity 1.7070467039923826e-05
+INFO:root:standard_deviations_from_normal: 3.99444743383601
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014982929532960076 to 0.015017070467039923
+INFO:root:Performace score: similarity: 0.98501069236378, adjusted by distance: 0.9401259985775227
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 10655, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7334241430822015
+INFO:root:Current performance: Similarity 0.7334241430822015
+INFO:root:Recent performance: Similarity 0.002668800071242958
+INFO:root:standard_deviations_from_normal: 52.10164803007292
+INFO:root:Recent performance: stdev 0.014300034757801054
+INFO:root:Similarity range: -0.04023130420216021 to 0.04556890434464612
+INFO:root:Performace score: similarity: 0.2665758569177985, adjusted by distance: -37.21260655962671
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.06511221239706311
+INFO:root:Current performance: Similarity 0.06511221239706311
+INFO:root:Recent performance: Similarity 2.766820978170877e-05
+INFO:root:standard_deviations_from_normal: 14.016908837456278
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01497233179021829 to 0.015027668209781709
+INFO:root:Performace score: similarity: 0.9348877876029369, adjusted by distance: 0.08732805462527593
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.015063918632420292
+INFO:root:Current performance: Similarity 0.015063918632420292
+INFO:root:Recent performance: Similarity 1.726990770698237e-05
+INFO:root:standard_deviations_from_normal: 4.0093297449426615
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014982730092293017 to 0.015017269907706982
+INFO:root:Performace score: similarity: 0.9849360813675797, adjusted by distance: 0.9396037829516414
+INFO:root:State 2 filtered
+INFO:root:Ranking inactive models on current stream at 10754, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7591921740929807
+INFO:root:Current performance: Similarity 0.7591921740929807
+INFO:root:Recent performance: Similarity 0.002157568756113689
+INFO:root:standard_deviations_from_normal: 53.93935421547729
+INFO:root:Recent performance: stdev 0.014300034757801054
+INFO:root:Similarity range: -0.04074253551728947 to 0.045057673029516854
+INFO:root:Performace score: similarity: 0.24080782590701932, adjusted by distance: -39.950335596019585
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.06428958727570466
+INFO:root:Current performance: Similarity 0.06428958727570466
+INFO:root:Recent performance: Similarity 2.8655007904063593e-05
+INFO:root:standard_deviations_from_normal: 13.852186453560119
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014971344992095936 to 0.015028655007904063
+INFO:root:Performace score: similarity: 0.9357104127242953, adjusted by distance: 0.10944865003451287
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.014889465351765163
+INFO:root:Current performance: Similarity 0.014889465351765163
+INFO:root:Recent performance: Similarity 1.7787395360354546e-05
+INFO:root:standard_deviations_from_normal: 3.974335591280962
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014982212604639646 to 0.015017787395360353
+INFO:root:Performace score: similarity: 0.9851105346482348, adjusted by distance: 0.940824267917335
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 11042, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.785662177762163
+INFO:root:Current performance: Similarity 0.785662177762163
+INFO:root:Recent performance: Similarity 0.0006527222387607178
+INFO:root:standard_deviations_from_normal: 55.89563269034423
+INFO:root:Recent performance: stdev 0.014300034757801054
+INFO:root:Similarity range: -0.04224738203464244 to 0.043552826512163884
+INFO:root:Performace score: similarity: 0.21433782223783704, adjusted by distance: -42.9150845068898
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.029883053634816914
+INFO:root:Current performance: Similarity 0.029883053634816914
+INFO:root:Recent performance: Similarity 2.5480756922665825e-05
+INFO:root:standard_deviations_from_normal: 6.9715145755788495
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014974519243077333 to 0.015025480756922666
+INFO:root:Performace score: similarity: 0.9701169463651831, adjusted by distance: 0.7916698560220694
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.005499858278757097
+INFO:root:Current performance: Similarity 0.005499858278757097
+INFO:root:Recent performance: Similarity 0.00511498209923644
+INFO:root:standard_deviations_from_normal: 1.0769752359041314
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.00988501790076356 to 0.02011498209923644
+INFO:root:Performace score: similarity: 0.9945001417212429, adjusted by distance: 0.9940767888327963
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 11143, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.8064467743999687
+INFO:root:Current performance: Similarity 0.8064467743999687
+INFO:root:Recent performance: Similarity 0.0007218159542975669
+INFO:root:standard_deviations_from_normal: 57.34426573726518
+INFO:root:Recent performance: stdev 0.014300034757801054
+INFO:root:Similarity range: -0.0421782883191056 to 0.04362192022770073
+INFO:root:Performace score: similarity: 0.1935532256000313, adjusted by distance: -45.24509813415215
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.02421727872816959
+INFO:root:Current performance: Similarity 0.02421727872816959
+INFO:root:Recent performance: Similarity 2.396176450022417e-05
+INFO:root:standard_deviations_from_normal: 5.838663392733873
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014976038235499775 to 0.015023961764500224
+INFO:root:Performace score: similarity: 0.9757827212718304, adjusted by distance: 0.8586034612182035
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.00414856833073618
+INFO:root:Current performance: Similarity 0.00414856833073618
+INFO:root:Recent performance: Similarity 0.00493536042489094
+INFO:root:standard_deviations_from_normal: 1.157358418830952
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01006463957510906 to 0.01993536042489094
+INFO:root:Performace score: similarity: 0.9958514316692638, adjusted by distance: 0.995198619516327
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14114, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.8475474521213392
+INFO:root:Current performance: Similarity 0.8475474521213392
+INFO:root:Recent performance: Similarity 0.000590581398654032
+INFO:root:standard_deviations_from_normal: 60.227609237848
+INFO:root:Recent performance: stdev 0.014300034757801054
+INFO:root:Similarity range: -0.04230952287474913 to 0.043490685672057196
+INFO:root:Performace score: similarity: 0.1524525478786608, adjusted by distance: -50.0457567568977
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.018958000662374297
+INFO:root:Current performance: Similarity 0.018958000662374297
+INFO:root:Recent performance: Similarity 2.1790216237037167e-05
+INFO:root:standard_deviations_from_normal: 4.787242089227452
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014978209783762962 to 0.015021790216237037
+INFO:root:Performace score: similarity: 0.9810419993376257, adjusted by distance: 0.9092434613014798
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.005109621893060412
+INFO:root:Current performance: Similarity 0.005109621893060412
+INFO:root:Recent performance: Similarity 0.0006241831609908185
+INFO:root:standard_deviations_from_normal: 1.8970877464139186
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014375816839009181 to 0.015624183160990818
+INFO:root:Performace score: similarity: 0.9948903781069396, adjusted by distance: 0.9903065989178668
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14146, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.8602748507865537
+INFO:root:Current performance: Similarity 0.8602748507865537
+INFO:root:Recent performance: Similarity 0.0005245954252699419
+INFO:root:standard_deviations_from_normal: 61.12224934574141
+INFO:root:Recent performance: stdev 0.014300034757801054
+INFO:root:Similarity range: -0.04237550884813322 to 0.0434246996986731
+INFO:root:Performace score: similarity: 0.13972514921344625, adjusted by distance: -51.58193393564622
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.01861876239350435
+INFO:root:Current performance: Similarity 0.01861876239350435
+INFO:root:Recent performance: Similarity 2.2541239202486323e-05
+INFO:root:standard_deviations_from_normal: 4.719244230860373
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014977458760797513 to 0.015022541239202486
+INFO:root:Performace score: similarity: 0.9813812376064956, adjusted by distance: 0.9121335129886945
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.004852534414147347
+INFO:root:Current performance: Similarity 0.004852534414147347
+INFO:root:Recent performance: Similarity 0.0005988027513410551
+INFO:root:standard_deviations_from_normal: 1.8507463325612583
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014401197248658945 to 0.015598802751341054
+INFO:root:Performace score: similarity: 0.9951474655858527, adjusted by distance: 0.9910191897293895
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14178, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.8377278960140204
+INFO:root:Current performance: Similarity 0.8377278960140204
+INFO:root:Recent performance: Similarity 0.0006870316237979272
+INFO:root:standard_deviations_from_normal: 59.5341839070422
+INFO:root:Recent performance: stdev 0.014300034757801054
+INFO:root:Similarity range: -0.042213072649605235 to 0.04358713589720109
+INFO:root:Performace score: similarity: 0.16227210398597958, adjusted by distance: -48.87344662535821
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.018819927532710445
+INFO:root:Current performance: Similarity 0.018819927532710445
+INFO:root:Recent performance: Similarity 2.0915255893550526e-05
+INFO:root:standard_deviations_from_normal: 4.7598024553633795
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014979084744106448 to 0.01502091525589355
+INFO:root:Performace score: similarity: 0.9811800724672896, adjusted by distance: 0.910420862720044
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.004809460670231358
+INFO:root:Current performance: Similarity 0.004809460670231358
+INFO:root:Recent performance: Similarity 0.0005691378471747822
+INFO:root:standard_deviations_from_normal: 1.848064564611315
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014430862152825217 to 0.015569137847174782
+INFO:root:Performace score: similarity: 0.9951905393297686, adjusted by distance: 0.9911118061604537
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14210, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.8357830237859144
+INFO:root:Current performance: Similarity 0.8357830237859144
+INFO:root:Recent performance: Similarity 0.0005453040826652508
+INFO:root:standard_deviations_from_normal: 59.408090179473476
+INFO:root:Recent performance: stdev 0.014300034757801054
+INFO:root:Similarity range: -0.04235480019073791 to 0.043445408356068416
+INFO:root:Performace score: similarity: 0.1642169762140856, adjusted by distance: -48.65227324754663
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.01926423757218465
+INFO:root:Current performance: Similarity 0.01926423757218465
+INFO:root:Recent performance: Similarity 2.2275352623481836e-05
+INFO:root:standard_deviations_from_normal: 4.848392443912234
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014977724647376518 to 0.01502227535262348
+INFO:root:Performace score: similarity: 0.9807357624278153, adjusted by distance: 0.9065994161172898
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.005154112850646486
+INFO:root:Current performance: Similarity 0.005154112850646486
+INFO:root:Recent performance: Similarity 0.0005542427003925003
+INFO:root:standard_deviations_from_normal: 1.9199740300507973
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014445757299607499 to 0.0155542427003925
+INFO:root:Performace score: similarity: 0.9948458871493535, adjusted by distance: 0.9901042371788077
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14274, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.8622078121047998
+INFO:root:Current performance: Similarity 0.8622078121047998
+INFO:root:Recent performance: Similarity 0.00043254413236872984
+INFO:root:standard_deviations_from_normal: 61.263858275051355
+INFO:root:Recent performance: stdev 0.014300034757801054
+INFO:root:Similarity range: -0.042467560141034436 to 0.04333264840577189
+INFO:root:Performace score: similarity: 0.1377921878952002, adjusted by distance: -51.82217720443056
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.01875649360729259
+INFO:root:Current performance: Similarity 0.01875649360729259
+INFO:root:Recent performance: Similarity 2.3941509922718508e-05
+INFO:root:standard_deviations_from_normal: 4.7465104194739745
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014976058490077281 to 0.015023941509922718
+INFO:root:Performace score: similarity: 0.9812435063927074, adjusted by distance: 0.9109721076601888
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.004872327563170797
+INFO:root:Current performance: Similarity 0.004872327563170797
+INFO:root:Recent performance: Similarity 0.0005170801517652136
+INFO:root:standard_deviations_from_normal: 1.8710494822811166
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014482919848234787 to 0.015517080151765212
+INFO:root:Performace score: similarity: 0.9951276724368292, adjusted by distance: 0.9908836340354252
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14375, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.8357062098212586
+INFO:root:Current performance: Similarity 0.8357062098212586
+INFO:root:Recent performance: Similarity 0.00036429009340590164
+INFO:root:standard_deviations_from_normal: 59.415376876769564
+INFO:root:Recent performance: stdev 0.014300034757801054
+INFO:root:Similarity range: -0.04253581417999726 to 0.04326439436680907
+INFO:root:Performace score: similarity: 0.16429379017874135, adjusted by distance: -48.65379941478675
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.019625955088363733
+INFO:root:Current performance: Similarity 0.019625955088363733
+INFO:root:Recent performance: Similarity 2.539175896211553e-05
+INFO:root:standard_deviations_from_normal: 4.920112665880324
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014974608241037884 to 0.015025391758962114
+INFO:root:Performace score: similarity: 0.9803740449116363, adjusted by distance: 0.9034380897897432
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.0055308524003879755
+INFO:root:Current performance: Similarity 0.0055308524003879755
+INFO:root:Recent performance: Similarity 0.0005268922205442728
+INFO:root:standard_deviations_from_normal: 2.0007920359687406
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014473107779455726 to 0.015526892220544273
+INFO:root:Performace score: similarity: 0.994469147599612, adjusted by distance: 0.9889339145651852
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14914, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.8548309075548715
+INFO:root:Current performance: Similarity 0.8548309075548715
+INFO:root:Recent performance: Similarity 0.000542474761568974
+INFO:root:standard_deviations_from_normal: 60.740304639977545
+INFO:root:Recent performance: stdev 0.014300034757801054
+INFO:root:Similarity range: -0.04235762951183419 to 0.04344257903497214
+INFO:root:Performace score: similarity: 0.14516909244512854, adjusted by distance: -50.92268974055138
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.017947252381100953
+INFO:root:Current performance: Similarity 0.017947252381100953
+INFO:root:Recent performance: Similarity 2.220611461321915e-05
+INFO:root:standard_deviations_from_normal: 4.585009253297547
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014977793885386781 to 0.015022206114613218
+INFO:root:Performace score: similarity: 0.982052747618899, adjusted by distance: 0.9177116817613857
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.005540005910367074
+INFO:root:Current performance: Similarity 0.005540005910367074
+INFO:root:Recent performance: Similarity 0.00048376177977422846
+INFO:root:standard_deviations_from_normal: 2.0112488261185693
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01451623822022577 to 0.015483761779774228
+INFO:root:Performace score: similarity: 0.9944599940896329, adjusted by distance: 0.9888576696160842
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 3519, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.3638247243624121
+INFO:root:Current performance: Similarity 0.3638247243624121
+INFO:root:Recent performance: Similarity 0.036167481301741834
+INFO:root:standard_deviations_from_normal: 23.483887018255544
+INFO:root:Recent performance: stdev 0.0145729803211799
+INFO:root:Similarity range: -0.007551459661797863 to 0.07988642226528153
+INFO:root:Performace score: similarity: 0.6361752756375879, adjusted by distance: -7.544018721374851
+INFO:root:State 0 filtered
+INFO:root:Ranking inactive models on current stream at 3618, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.873228105496776
+INFO:root:Current performance: Similarity 0.873228105496776
+INFO:root:Recent performance: Similarity 0.0014607002506798737
+INFO:root:standard_deviations_from_normal: 60.82080439504179
+INFO:root:Recent performance: stdev 0.0145729803211799
+INFO:root:Similarity range: -0.04225824071285982 to 0.04517964121421957
+INFO:root:Performace score: similarity: 0.12677189450322401, adjusted by distance: -52.11043579667233
+INFO:root:State 0 filtered
+INFO:root:Ranking inactive models on current stream at 7071, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.6979304083299138
+INFO:root:Current performance: Similarity 0.6979304083299138
+INFO:root:Recent performance: Similarity 0.005043933137884973
+INFO:root:standard_deviations_from_normal: 48.54596931589964
+INFO:root:Recent performance: stdev 0.0145729803211799
+INFO:root:Similarity range: -0.03867500782565472 to 0.04876287410142467
+INFO:root:Performace score: similarity: 0.3020695916700862, adjusted by distance: -32.8817081874173
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.028373980857692493
+INFO:root:Current performance: Similarity 0.028373980857692493
+INFO:root:Recent performance: Similarity 3.150461963957121e-05
+INFO:root:standard_deviations_from_normal: 6.6684952476105845
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014968495380360429 to 0.01503150461963957
+INFO:root:Performace score: similarity: 0.9716260191423075, adjusted by distance: 0.8107882434946839
+INFO:root:State 1 filtered
+INFO:root:Ranking inactive models on current stream at 7170, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7054295308306457
+INFO:root:Current performance: Similarity 0.7054295308306457
+INFO:root:Recent performance: Similarity 0.00417418636840252
+INFO:root:standard_deviations_from_normal: 49.12024232565945
+INFO:root:Recent performance: stdev 0.0145729803211799
+INFO:root:Similarity range: -0.03954475459513718 to 0.04789312733194222
+INFO:root:Performace score: similarity: 0.29457046916935425, adjusted by distance: -33.65086949807757
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.031265338287710165
+INFO:root:Current performance: Similarity 0.031265338287710165
+INFO:root:Recent performance: Similarity 3.211688216003333e-05
+INFO:root:standard_deviations_from_normal: 7.246644281110026
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014967883117839966 to 0.015032116882160032
+INFO:root:Performace score: similarity: 0.9687346617122898, adjusted by distance: 0.7734312151003948
+INFO:root:State 1 filtered
+INFO:root:Ranking inactive models on current stream at 10591, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7224313957157377
+INFO:root:Current performance: Similarity 0.7224313957157377
+INFO:root:Recent performance: Similarity 0.002837836968128852
+INFO:root:standard_deviations_from_normal: 50.37861322037021
+INFO:root:Recent performance: stdev 0.0145729803211799
+INFO:root:Similarity range: -0.040881103995410846 to 0.04655677793166855
+INFO:root:Performace score: similarity: 0.27756860428426233, adjusted by distance: -35.39509186301537
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.08792470616435011
+INFO:root:Current performance: Similarity 0.08792470616435011
+INFO:root:Recent performance: Similarity 3.0988782291534674e-05
+INFO:root:standard_deviations_from_normal: 18.578743476411713
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014969011217708465 to 0.015030988782291534
+INFO:root:Performace score: similarity: 0.9120752938356499, adjusted by distance: -0.6335305610663362
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.018494463188684307
+INFO:root:Current performance: Similarity 0.018494463188684307
+INFO:root:Recent performance: Similarity 2.2039880178731376e-05
+INFO:root:standard_deviations_from_normal: 4.694484661701115
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014977960119821268 to 0.015022039880178731
+INFO:root:Performace score: similarity: 0.9815055368113157, adjusted by distance: 0.9131780262343256
+INFO:root:State 2 filtered
+INFO:root:Ranking inactive models on current stream at 10690, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7469438556894912
+INFO:root:Current performance: Similarity 0.7469438556894912
+INFO:root:Recent performance: Similarity 0.0021528705379509545
+INFO:root:standard_deviations_from_normal: 52.10766423454817
+INFO:root:Recent performance: stdev 0.0145729803211799
+INFO:root:Similarity range: -0.04156607042558874 to 0.04587181150149065
+INFO:root:Performace score: similarity: 0.2530561443105088, adjusted by distance: -37.92149963432681
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.08768447155335124
+INFO:root:Current performance: Similarity 0.08768447155335124
+INFO:root:Recent performance: Similarity 3.1880464239765255e-05
+INFO:root:standard_deviations_from_normal: 18.530518217822294
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014968119535760235 to 0.015031880464239764
+INFO:root:Performace score: similarity: 0.9123155284466488, adjusted by distance: -0.624838697539496
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.018589226207834653
+INFO:root:Current performance: Similarity 0.018589226207834653
+INFO:root:Recent performance: Similarity 2.249858607339259e-05
+INFO:root:standard_deviations_from_normal: 4.713345524352252
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014977501413926607 to 0.015022498586073392
+INFO:root:Performace score: similarity: 0.9814107737921653, adjusted by distance: 0.912382553852131
+INFO:root:State 2 filtered
+INFO:root:Ranking inactive models on current stream at 14079, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7926562269847308
+INFO:root:Current performance: Similarity 0.7926562269847308
+INFO:root:Recent performance: Similarity 0.001559209147076815
+INFO:root:standard_deviations_from_normal: 55.28519083964582
+INFO:root:Recent performance: stdev 0.0145729803211799
+INFO:root:Similarity range: -0.04215973181646288 to 0.04527815011061651
+INFO:root:Performace score: similarity: 0.20734377301526918, adjusted by distance: -42.82215077908446
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.1403125635485809
+INFO:root:Current performance: Similarity 0.1403125635485809
+INFO:root:Recent performance: Similarity 3.0706335248284354e-05
+INFO:root:standard_deviations_from_normal: 29.05637144266652
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014969293664751715 to 0.015030706335248284
+INFO:root:Performace score: similarity: 0.8596874364514191, adjusted by distance: -3.0769739645403176
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.05116846610732262
+INFO:root:Current performance: Similarity 0.05116846610732262
+INFO:root:Recent performance: Similarity 2.1302032335083457e-05
+INFO:root:standard_deviations_from_normal: 11.229432814997507
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014978697967664916 to 0.015021302032335083
+INFO:root:Performace score: similarity: 0.9488315338926774, adjusted by distance: 0.4254071476013437
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.011088802654410257
+INFO:root:Current performance: Similarity 0.011088802654410257
+INFO:root:Recent performance: Similarity 1.4923230275398528e-05
+INFO:root:standard_deviations_from_normal: 3.2147758848269716
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014985076769724602 to 0.015014923230275397
+INFO:root:Performace score: similarity: 0.9889111973455897, adjusted by distance: 0.9643519846349966
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14111, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7838660468212824
+INFO:root:Current performance: Similarity 0.7838660468212824
+INFO:root:Recent performance: Similarity 0.001867606646768131
+INFO:root:standard_deviations_from_normal: 54.66084513529349
+INFO:root:Recent performance: stdev 0.0145729803211799
+INFO:root:Similarity range: -0.041851334316771564 to 0.04558654761030783
+INFO:root:Performace score: similarity: 0.21613395317871764, adjusted by distance: -41.846780592112836
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.1398964873879558
+INFO:root:Current performance: Similarity 0.1398964873879558
+INFO:root:Recent performance: Similarity 2.9892640284991996e-05
+INFO:root:standard_deviations_from_normal: 28.97331894953416
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014970107359715008 to 0.015029892640284991
+INFO:root:Performace score: similarity: 0.8601035126120442, adjusted by distance: -3.0532655490107263
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.05057320884377936
+INFO:root:Current performance: Similarity 0.05057320884377936
+INFO:root:Recent performance: Similarity 2.09067531547079e-05
+INFO:root:standard_deviations_from_normal: 11.11046041812493
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014979093246845291 to 0.015020906753154708
+INFO:root:Performace score: similarity: 0.9494267911562206, adjusted by distance: 0.4381083649236237
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.010435752911529872
+INFO:root:Current performance: Similarity 0.010435752911529872
+INFO:root:Recent performance: Similarity 1.5692259456804357e-05
+INFO:root:standard_deviations_from_normal: 3.0840121304146133
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014984307740543195 to 0.015015692259456804
+INFO:root:Performace score: similarity: 0.9895642470884701, adjusted by distance: 0.9678160114308323
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14143, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7898672506245822
+INFO:root:Current performance: Similarity 0.7898672506245822
+INFO:root:Recent performance: Similarity 0.001859785714969662
+INFO:root:standard_deviations_from_normal: 55.073185274555534
+INFO:root:Recent performance: stdev 0.0145729803211799
+INFO:root:Similarity range: -0.041859155248570035 to 0.04557872667850936
+INFO:root:Performace score: similarity: 0.21013274937541782, adjusted by distance: -42.5005054359514
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.13979802953040443
+INFO:root:Current performance: Similarity 0.13979802953040443
+INFO:root:Recent performance: Similarity 2.9854742088421145e-05
+INFO:root:standard_deviations_from_normal: 28.953634957663205
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014970145257911578 to 0.01502985474208842
+INFO:root:Performace score: similarity: 0.8602019704695956, adjusted by distance: -3.047661114823951
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.0506619157652316
+INFO:root:Current performance: Similarity 0.0506619157652316
+INFO:root:Recent performance: Similarity 2.0882349112157576e-05
+INFO:root:standard_deviations_from_normal: 11.128206683223889
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014979117650887842 to 0.015020882349112157
+INFO:root:Performace score: similarity: 0.9493380842347684, adjusted by distance: 0.43622373039642404
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.01058401719779023
+INFO:root:Current performance: Similarity 0.01058401719779023
+INFO:root:Recent performance: Similarity 1.871131407915842e-05
+INFO:root:standard_deviations_from_normal: 3.1130611767422143
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014981288685920842 to 0.015018711314079157
+INFO:root:Performace score: similarity: 0.9894159828022098, adjusted by distance: 0.9670513069675873
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14175, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7850722380545146
+INFO:root:Current performance: Similarity 0.7850722380545146
+INFO:root:Recent performance: Similarity 0.0018094139598143564
+INFO:root:standard_deviations_from_normal: 54.74760734126096
+INFO:root:Recent performance: stdev 0.0145729803211799
+INFO:root:Similarity range: -0.04190952700372534 to 0.04552835492335405
+INFO:root:Performace score: similarity: 0.21492776194548535, adjusted by distance: -41.98082662353352
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.13996149464625796
+INFO:root:Current performance: Similarity 0.13996149464625796
+INFO:root:Recent performance: Similarity 2.997807088814312e-05
+INFO:root:standard_deviations_from_normal: 28.98630331507396
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014970021929111857 to 0.015029978070888142
+INFO:root:Performace score: similarity: 0.860038505353742, adjusted by distance: -3.056966336247533
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.05059686909353245
+INFO:root:Current performance: Similarity 0.05059686909353245
+INFO:root:Recent performance: Similarity 2.0936088332538005e-05
+INFO:root:standard_deviations_from_normal: 11.115186601039982
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014979063911667461 to 0.015020936088332538
+INFO:root:Performace score: similarity: 0.9494031309064676, adjusted by distance: 0.43760635859699415
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.01056342023198642
+INFO:root:Current performance: Similarity 0.01056342023198642
+INFO:root:Recent performance: Similarity 2.1722564116751697e-05
+INFO:root:standard_deviations_from_normal: 3.1083395335739334
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014978277435883248 to 0.015021722564116751
+INFO:root:Performace score: similarity: 0.9894365797680136, adjusted by distance: 0.9671653032831619
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14207, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7770866973833505
+INFO:root:Current performance: Similarity 0.7770866973833505
+INFO:root:Recent performance: Similarity 0.001904519446802174
+INFO:root:standard_deviations_from_normal: 54.193112242793845
+INFO:root:Recent performance: stdev 0.0145729803211799
+INFO:root:Similarity range: -0.041814421516737525 to 0.04562346041034187
+INFO:root:Performace score: similarity: 0.22291330261664954, adjusted by distance: -41.112746613677885
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.14049738080069762
+INFO:root:Current performance: Similarity 0.14049738080069762
+INFO:root:Recent performance: Similarity 2.9765555497800767e-05
+INFO:root:standard_deviations_from_normal: 29.093523049039963
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014970234444502198 to 0.015029765555497801
+INFO:root:Performace score: similarity: 0.8595026191993024, adjusted by distance: -3.087563786654841
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.050827621888957175
+INFO:root:Current performance: Similarity 0.050827621888957175
+INFO:root:Recent performance: Similarity 2.0807099403048875e-05
+INFO:root:standard_deviations_from_normal: 11.161362957910825
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01497919290059695 to 0.015020807099403049
+INFO:root:Performace score: similarity: 0.9491723781110428, adjusted by distance: 0.43269446380989596
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.010561239217171892
+INFO:root:Current performance: Similarity 0.010561239217171892
+INFO:root:Recent performance: Similarity 2.2715458508775972e-05
+INFO:root:standard_deviations_from_normal: 3.1077047517326233
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014977284541491224 to 0.015022715458508775
+INFO:root:Performace score: similarity: 0.9894387607828281, adjusted by distance: 0.96717878670061
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14239, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7820292758484274
+INFO:root:Current performance: Similarity 0.7820292758484274
+INFO:root:Recent performance: Similarity 0.001820427729896429
+INFO:root:standard_deviations_from_normal: 54.53804307171132
+INFO:root:Recent performance: stdev 0.0145729803211799
+INFO:root:Similarity range: -0.04189851323364327 to 0.045539368693436125
+INFO:root:Performace score: similarity: 0.2179707241515726, adjusted by distance: -41.65034632956075
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.13977025515791452
+INFO:root:Current performance: Similarity 0.13977025515791452
+INFO:root:Recent performance: Similarity 2.995921044536119e-05
+INFO:root:standard_deviations_from_normal: 28.948059189493833
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014970040789554639 to 0.01502995921044536
+INFO:root:Performace score: similarity: 0.8602297448420855, adjusted by distance: -3.0460776192419656
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.05076153775091319
+INFO:root:Current performance: Similarity 0.05076153775091319
+INFO:root:Recent performance: Similarity 2.0902903880459745e-05
+INFO:root:standard_deviations_from_normal: 11.148126969406546
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.01497909709611954 to 0.01502090290388046
+INFO:root:Performace score: similarity: 0.9492384622490868, adjusted by distance: 0.43410393199049624
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.010108710077225913
+INFO:root:Current performance: Similarity 0.010108710077225913
+INFO:root:Recent performance: Similarity 2.2350764666381004e-05
+INFO:root:standard_deviations_from_normal: 3.0172718625119064
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014977649235333618 to 0.01502235076466638
+INFO:root:Performace score: similarity: 0.9898912899227741, adjusted by distance: 0.9694992735176957
+INFO:root:Top state is similar
+INFO:root:Ranking inactive models on current stream at 14340, using last 75 elements.
+INFO:root:State 0 performance: Similarity 0.7800219415611698
+INFO:root:Current performance: Similarity 0.7800219415611698
+INFO:root:Recent performance: Similarity 0.0017950011983698933
+INFO:root:standard_deviations_from_normal: 54.40204427722653
+INFO:root:Recent performance: stdev 0.0145729803211799
+INFO:root:Similarity range: -0.0419239397651698 to 0.04551394216190959
+INFO:root:Performace score: similarity: 0.21997805843883023, adjusted by distance: -41.434788202018964
+INFO:root:State 0 filtered
+INFO:root:State 1 performance: Similarity 0.14103810834274888
+INFO:root:Current performance: Similarity 0.14103810834274888
+INFO:root:Recent performance: Similarity 2.981737154002485e-05
+INFO:root:standard_deviations_from_normal: 29.20165819424177
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014970182628459975 to 0.015029817371540024
+INFO:root:Performace score: similarity: 0.8589618916572511, adjusted by distance: -3.1185466321873916
+INFO:root:State 1 filtered
+INFO:root:State 2 performance: Similarity 0.053118198759914304
+INFO:root:Current performance: Similarity 0.053118198759914304
+INFO:root:Recent performance: Similarity 2.0821396316825206e-05
+INFO:root:standard_deviations_from_normal: 11.619475472719495
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014979178603683174 to 0.015020821396316825
+INFO:root:Performace score: similarity: 0.9468818012400857, adjusted by distance: 0.3827943923541367
+INFO:root:State 2 filtered
+INFO:root:State 3 performance: Similarity 0.011300463570305452
+INFO:root:Current performance: Similarity 0.011300463570305452
+INFO:root:Recent performance: Similarity 1.756251043881297e-05
+INFO:root:standard_deviations_from_normal: 3.256580211973328
+INFO:root:Recent performance: stdev 0.005
+INFO:root:Similarity range: -0.014982437489561186 to 0.015017562510438813
+INFO:root:Performace score: similarity: 0.9886995364296945, adjusted by distance: 0.9631991339508178
+INFO:root:Top state is similar

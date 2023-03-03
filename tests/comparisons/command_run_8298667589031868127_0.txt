@@ -1,0 +1,1 @@
+python ../run_experiment.py --forcegitcheck --seeds 1 --seedaction list --datalocation ../RawData --datasets UCI-Wine --outputlocation testoutput/ --loglocation testlog/  --ifeatures IMF MI --isources features --single
