@@ -7,7 +7,7 @@ In real-world streams change is possible in many different aspects, and single m
 For example, looking only at feature space may miss changes in class label distribution.
 FiCSUM shows that a combined approach can increase performance.
 
-For more details, please see the full paper published in ICDE 2021 availiable ![here](https://ieeexplore.ieee.org/abstract/document/9458895).
+For more details, please see the full paper published in ICDE 2021 availiable [here](https://ieeexplore.ieee.org/abstract/document/9458895).
 
 ![Concept Similarity](https://github.com/BenHals/ConceptFingerprint/raw/master/ConceptSimilarity.png)
 # Implementation
